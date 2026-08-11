@@ -1,0 +1,14 @@
+{
+    "name": "ArithmosRequiem.Core",
+    "rootNamespace": "ArithmosRequiem",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

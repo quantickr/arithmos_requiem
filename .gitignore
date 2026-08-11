@@ -1,0 +1,20 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+*_BurstDebugInformation_DoNotShip/
+*.app/
+*.exe
+*.zip
+mono_crash.*
+build.log
+.DS_Store
+*.csproj
+*.sln
+.vs/
+.idea/
